@@ -1,4 +1,4 @@
-Adafruit_LSM303
+Adafruit_TynyLSM303
 ===============
 
 This is a library for the Adafruit triple-axis accelerometer/magnetometer LSM303DLHC breakout
